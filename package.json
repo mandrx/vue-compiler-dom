@@ -43,7 +43,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@vue/compiler-core": "3.2.23",
+    "@vue/compiler-core": "git+https://github.com/mandrx/vue-compiler-core.git",
     "@vue/shared": "3.2.23"
   },
   "deprecated": false,
